@@ -2,7 +2,7 @@
 <h3 align="center">I make apps, games and other stuff.</h3>  
 
 - 📚 Student
-- 🌱 I’m currently learning **Java, C, C++, Assembly and **
+- 🌱 I’m currently learning **Java, C, C++ and Assembly**
 - 💬 Feel free to ask me about anything related to languages in the ***Languages, Tools and Achievements*** section
 - ⚡ I do not believe in the AI apocalypse
 
